@@ -12,10 +12,10 @@ Questions we want to answer: <br>
 1. What are the top medaling countries in 2016? 2020? Compare. <br>
 1. Does the United States have more female or male medalists in 2020? <br>
 1. Which Olympic athlete has the most medals in 2016? 2020? <br>
-1. Is it the same person each Olympics? Same event? <br>
+   - Is it the same person each Olympics? Same event? <br>
 1. Who are the 5 oldest athletes and who are the 5 youngest athletes? <br>
-1. What country are they from? <br>
-1. What sport do they compete in? What is the age distribution of their sport in 2020? <br>
+   -  What country are they from? <br>
+   - What sport do they compete in? What is the age distribution of their sport in 2020? <br>
 
 Clear Steps for Project: <br>
 The first step for the project will be to build a space for it to live on Github. Next, we will load the data and format it nicely for our purposes. Then we will work on each question one at a time, working to find meaningful answers and documenting as we go. Finally, we will write up a summary to include in the report. We will also create a video to show off our hard work.
