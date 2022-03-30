@@ -9,11 +9,12 @@ Describing the Data set: <br>
 
 Questions we want to answer: <br>
 1. What is the average age of an Olympic athlete in 2016? 2020? Compare. <br>
-1. What are the top medaling countries in 2016? 2020? Compare. <br>
-1. Does the United States have more female or male medalists in 2020? <br>
-1. Which Olympic athlete has the most medals in 2016? 2020? <br>
+   - Are there events that tend to have older events? Meaning, is the mean age of athletes competing an a specific event greater than 30?<br>
+3. What are the top medaling countries in 2016? 2020? Compare. <br>
+4. Does the United States have more female or male medalists in 2020? <br>
+5. Which Olympic athlete has the most medals in 2016? 2020? <br>
    - Is it the same person each Olympics? Same event? <br>
-1. Who are the 5 oldest athletes and who are the 5 youngest athletes? <br>
+6. Who are the 5 oldest athletes and who are the 5 youngest athletes? <br>
    -  What country are they from? <br>
    - What sport do they compete in? What is the age distribution of their sport in 2020? <br>
 
