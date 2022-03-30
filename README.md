@@ -8,14 +8,14 @@ Describing the Data set: <br>
 	We are using 2 .csv files for our project. We have a main data set that is for the 2020 Summer Olympics in Tokyo. It includes data sorted by athlete name, with information on each athlete including age, country, sport, event, rank, and medal earned. The data set has multiple entries for each athlete as many athletes compete in multiple events. We have not decided how we are going to sort/filter the data for each individual athlete as they are each in the data set multiple times. We will use a 2016 Olympics in Rio De Janeiro data set to be able to determine if there were any repeat medalists and if there were more female or male medalists in 2016 vs. 2020.
 
 Questions we want to answer: <br>
-What is the average age of an Olympic athlete in 2016? 2020? Compare. <br>
-What are the top medaling countries in 2016? 2020? Compare. <br>
-Does the United States have more female or male medalists in 2020? <br>
-Which Olympic athlete has the most medals in 2016? 2020? <br>
-Is it the same person each Olympics? Same event? <br>
-Who are the 5 oldest athletes and who are the 5 youngest athletes? <br>
-What country are they from? <br>
-What sport do they compete in? What is the age distribution of their sport in 2020? <br>
+1. What is the average age of an Olympic athlete in 2016? 2020? Compare. <br>
+1. What are the top medaling countries in 2016? 2020? Compare. <br>
+1. Does the United States have more female or male medalists in 2020? <br>
+1. Which Olympic athlete has the most medals in 2016? 2020? <br>
+1. Is it the same person each Olympics? Same event? <br>
+1. Who are the 5 oldest athletes and who are the 5 youngest athletes? <br>
+1. What country are they from? <br>
+1. What sport do they compete in? What is the age distribution of their sport in 2020? <br>
 
 Clear Steps for Project: <br>
 The first step for the project will be to build a space for it to live on Github. Next, we will load the data and format it nicely for our purposes. Then we will work on each question one at a time, working to find meaningful answers and documenting as we go. Finally, we will write up a summary to include in the report. We will also create a video to show off our hard work.
