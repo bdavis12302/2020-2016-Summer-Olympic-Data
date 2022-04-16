@@ -9,7 +9,7 @@ Describing the Data set: <br>
 
 Questions we want to answer: <br>
 1. What is the average age of an Olympic athlete in 2016? 2020? Compare.
-   - Are there events that tend to have older compeditors? Meaning, is the mean age of athletes competing an a specific event greater than 30?
+   - Are there events that tend to have older compeditors? Meaning, is the mean age of athletes competing in a specific event greater than 30?
 2. Who are the 5 oldest athletes and who are the 5 youngest athletes in 2020?
    - What country are they from?
    - What sport do they compete in? What is the age distribution of their sport in 2020?
