@@ -1,5 +1,5 @@
 # DSCI 235 - Project Proposal
-By: Blake Davis and Elisabeth Ball
+By: Blake Davis
 
 Topic Description and Interests: <br>
 For this project, I am analyzing data from the Tokyo 2020 Olympics and the Rio 2016 Olympics. The Olympic Games are a fascinating event, bringing the world together to appreciate excellence in athletics. The numerous different events, countries, and people competing in the Olympic Games give ample material to analyze. Finding patterns and interesting information in this Olympic data will likely change the way we see the games in the future and make us think about the nature of sports in a new way. This project will also be challenging and help us develop our teamwork, communication, and data wrangling skills.
