@@ -1,10 +1,10 @@
 # DSCI 235 - Project Proposal
 By: Blake Davis
 
-Topic Description and Interests:
+Topic Description and Interests: <br>
 For this project, I am analyzing data from the Tokyo 2020 Olympics and the Rio 2016 Olympics. The Olympic Games are a fascinating event, bringing the world together to appreciate excellence in athletics. The numerous different events, countries, and people competing in the Olympic Games give ample material to analyze. Finding patterns and interesting information in this Olympic data will likely change the way I see the games in the future and make me think about the nature of sports in a new way. This project will also be challenging and allow for me to develop my communication and data wrangling skills.
 
-Describing the Dataset:
+Describing the Dataset: <br>
 I am using 2 .csv files for our project. I have a main data set that is for the 2020 Summer Olympics in Tokyo. It includes data sorted by athlete name, with information on each athlete including age, country, sport, event, rank, and medal earned. The data set has multiple entries for each athlete as many athletes compete in multiple events. I have not decided how I am going to sort/filter the data for each individual athlete as they are each in the data set multiple times. I will use a 2016 Olympics in Rio De Janeiro data set to be able to determine if there were any repeat medalists and if there were more female or male medalists in 2016 vs. 2020.
 
 Questions I want to answer: <br>
