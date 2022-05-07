@@ -9,7 +9,7 @@ I am using 2 .csv files for our project. I have a main data set that is for the 
 
 Questions I want to answer: <br>
 1. What is the average age of an Olympic athlete in 2016? 2020? Compare.
-   - Which events have a mean age greather than 30? Which events have a mean age greather than 28?<br>
+   - Which events have a mean age greater than 30? Which events have a mean age greater than 28?<br>
 6. Who are the 5 oldest athletes and who are the 5 youngest athletes in 2016 and 2020?
    - What country are they from? <br>
    - What sport do they compete in? <br>
